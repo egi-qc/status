@@ -1,26 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: egi-qc
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Jenkins CI
+    url: https://jenkins.egi.ifca.es
+    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://imgs.search.brave.com/fVkgtIZ0kQPbwjNMs5wWOMMks0Trcd6Gf4cAD_Ec9O0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWdpLmV1L19uZXh0/L2ltYWdlLz91cmw9/aHR0cHM6Ly9jZG4u/ZWdpLmV1L2FwcC91/cGxvYWRzLzIwMjIv/MDUvRUdJLWxvZ28t/M18yLnBuZyZ3PTM4/NDAmcT03NQ
+  name: EGI UMD validation infrastructure status
+  introTitle: "EGI UMD validation infrastructure status"
+  introMessage: Monitoring page for the services involved in the EGI UMD validation process
   navbar:
     - title: Status
       href: /
