@@ -1,7 +1,7 @@
 url: https://jenkins.egi.ifca.es
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-29T23:15:52.834Z
+code: 502
+responseTime: 536
+lastUpdated: 2023-11-30T23:15:56.209Z
 startTime: 2023-11-03T08:26:04.506Z
 generator: Upptime <https://github.com/upptime/upptime>
