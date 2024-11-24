@@ -4,7 +4,7 @@
     "url": "https://jenkins.egi.ifca.es",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "91.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 655,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2024-11-24": 0,
       "2024-11-08": 523,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
