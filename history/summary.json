@@ -5,16 +5,16 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins-ci",
     "status": "up",
-    "uptime": "42.58%",
-    "uptimeDay": "76.27%",
+    "uptime": "42.59%",
+    "uptimeDay": "91.51%",
     "uptimeWeek": "95.16%",
-    "uptimeMonth": "24.82%",
-    "uptimeYear": "2.05%",
-    "time": 558,
-    "timeDay": 11767,
-    "timeWeek": 3094,
-    "timeMonth": 1247,
-    "timeYear": 551,
+    "uptimeMonth": "25.42%",
+    "uptimeYear": "2.10%",
+    "time": 561,
+    "timeDay": 8598,
+    "timeWeek": 3211,
+    "timeMonth": 1303,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2026-05-06": 291,
       "2026-05-05": 197,
@@ -374,8 +374,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
