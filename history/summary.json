@@ -4,19 +4,20 @@
     "url": "https://jenkins.egi.ifca.es",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins-ci",
-    "status": "down",
+    "status": "up",
     "uptime": "42.37%",
-    "uptimeDay": "84.20%",
+    "uptimeDay": "70.84%",
     "uptimeWeek": "41.62%",
     "uptimeMonth": "35.26%",
     "uptimeYear": "2.92%",
-    "time": 555,
-    "timeDay": 1020,
-    "timeWeek": 836,
-    "timeMonth": 1341,
-    "timeYear": 563,
+    "time": 556,
+    "timeDay": 926,
+    "timeWeek": 890,
+    "timeMonth": 1355,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-05-18": 227,
+      "2026-05-19": 108,
+      "2026-05-18": 312,
       "2026-05-15": 1253,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -372,8 +373,7 @@
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
-      "2025-05-20": 1440,
-      "2025-05-19": 1440
+      "2025-05-20": 1440
     }
   }
 ]
